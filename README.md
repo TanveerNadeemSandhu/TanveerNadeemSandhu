@@ -6,7 +6,7 @@
 <img width ='32px' src ='icons/html.svg'> <img width ='32px' src ='icons/css.svg'> <img width ='32px' src ='icons/javascript.svg'> <img width ='80px' src ='icons/jquery.svg'> <img width ='32px' src ='icons/bootstrap.svg'> <img width ='32px' src ='icons/php.svg'> <img width ='32px' src ='icons/laravel.svg'> <img width ='32px' src ='icons/laravel-word.svg'> <img width ='32px' src ='icons/mysql.svg'> <img width ='32px' src ='icons/api.svg'> <img width ='32px' src ='icons/git.svg'>
 
 <h1> About Me </h1>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://www.shutterstock.com/zh/image-vector/programming-courses-web-design-concept-people-1918015178" />
 
 As a seasoned back-end engineer with a dynamic background in web development, CRM, and ERPs, I bring over two years of hands-on experience to the table. My expertise lies in leveraging Laravel to craft robust solutions, empowering businesses to thrive in the digital landscape.
 
