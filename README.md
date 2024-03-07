@@ -19,6 +19,7 @@ I am eager to bring my unique blend of skills and dedication to a new opportunit
 <h1> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h1>
 
 - 📫 How to reach me: tanveernadeem.ns@gmail.com 
+- 📫 Visit my short portfolio: https://tanveernadeemsandhu.github.io/digital_cv/
 
 
 <!-- [<img src='icons/github.svg' alt='github' height='40'>](https://github.com/MuhammadHamza0147)  [<img src='icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_mr_hamxa/)  [<img src='icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mr_hamxa266) -->
