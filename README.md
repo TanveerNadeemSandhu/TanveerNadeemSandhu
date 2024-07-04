@@ -8,7 +8,7 @@
 <h1> About Me </h1>
 <img width="55%" align="right" alt="Github" src="icons/Web-Development-Services.svg" />
 
-As a seasoned back-end engineer with a dynamic background in web development, CRM, and ERPs, I bring over two years of hands-on experience to the table. My expertise lies in leveraging Laravel to craft robust solutions, empowering businesses to thrive in the digital landscape.
+As a seasoned back-end engineer with a dynamic background in web development, CRM, and ERPs, I bring over four years of hands-on experience to the table. My expertise lies in leveraging Laravel to craft robust solutions, empowering businesses to thrive in the digital landscape.
 
 Throughout my journey, I've honed a comprehensive skill set encompassing HTML, CSS, and Bootstrap for crafting sleek and responsive interfaces. I'm adept at weaving interactivity into web applications using JavaScript and jQuery, while my proficiency in PHP and Laravel ensures the seamless functioning of backend systems. My prowess extends to database management, where I harness the power of MySQL to architect efficient data structures.
 
